@@ -1,11 +1,11 @@
-# Lock It In
+# Lock It In!
 
 ![Vite](https://img.shields.io/badge/Vite-7.x-646CFF?logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-19.x-61DAFB?logo=react&logoColor=black)
 ![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-Live%20Deploy-F57C00?logo=firebase&logoColor=white)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-0F9D58?logo=google-chrome&logoColor=white)](https://lock-it-in-fr.web.app)
 
-Lock It In is a fast study app for creating, importing, and reviewing flashcard sets with multiple learning modes, streak tracking, and a polished single-page experience.
+Lock It In! is a fast, gen Z study app in which you can create, import, and review flashcard sets with multiple learning modes, alongside streak tracking, and a polished single-page experience.
 
 ## Live Demo
 
